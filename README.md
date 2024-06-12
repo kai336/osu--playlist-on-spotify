@@ -39,5 +39,7 @@ Then go to your Spotify account to see the playlist!
 
 # References
 https://osu.ppy.sh/docs/index.html#introduction
+
 https://spotipy.readthedocs.io/en/latest/#getting-started
+
 https://developer.spotify.com/documentation/web-api/reference/search
